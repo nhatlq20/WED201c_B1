@@ -1,0 +1,108 @@
+.logo_header img{
+    margin-left: 20px;
+    width: 20%;
+    height: 120px;
+}
+.search_header{
+   margin-top: 45px;
+}
+.content_header{
+    text-align: center;
+    margin-top: 49px;
+}
+.navbar-css{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.left_item{
+    border: 3px solid #0FBDC0;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+.left_item p{
+    margin-left: 10px;
+}
+.background_header_icon img{
+    width: 5%;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.background_header_icon{
+    background-color: #E2ECEA ;
+    color: #0FBDC0;
+    padding: 10px 0px;
+    margin-top: 0px;
+}
+.left_item p{
+    margin-left: 5px;
+}
+
+.pic1 img{
+    width: 100%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+.content_title h2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  
+}
+.content_title{
+    width: 100%;
+    margin-top: -10px;
+    padding-top: 0.5px;
+    padding-bottom: 0.5px;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+}
+.content_first_tour_img img{
+    width: 100%;
+    height: auto;
+    margin-left: -4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.content_first_tour{
+    margin-top: 10px;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+}
+.content_first_tour h4{
+    color:#CE783E;
+}
+.content-of-the-second-tour-img img{
+    width: 100%;
+    height: auto;
+    margin-left: -4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.content-of-the-second-tour{
+    margin-top: 10px;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.3);
+
+}
+.content-of-the-second-tour h4{
+    color:#CE783E;
+}
+.content_on_the_right h2{
+    color: #0FBDC0;
+}
+.booknow{
+ text-align: right;
+   
+}
+.content-footer{
+    background-color: #66c3c1; 
+    color: white;              
+    text-align: center;       
+    padding: 20px 10px;        
+    font-size: 14px;           
+    line-height: 1.6;  
+}
+.content-footer{
+    margin-top: 1150px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
